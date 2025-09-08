@@ -1,6 +1,21 @@
-# Turborepo starter
+# Project- Metaverse
+This is a [Turborepo](https://turborepo.com/) monorepo MVP for a metaverse project, with two react.js and node.js applications and a shared component library.
 
-This Turborepo starter is maintained by the Turborepo core team.
+Note: This is a minimal example to get you started. You can customize and expand it based on your specific project requirements.
+
+## Project Overview
+
+FRONTEND(Janky frontend):
+- React.js with Three.js for 3D rendering
+- websocket for real-time communication
+
+BACKEND:
+- Node.js with Express.js
+- PostgreSQL for database
+- RESTful API design
+- JWT for authentication
+
+- Notion: https://petal-estimate-4e9.notion.site/Designing-the-API-12e7dfd1073580fb8ac4ce9b70fc74d8
 
 ## Using this example
 
